@@ -1,3 +1,11 @@
+/**
+ * === STUDENT GRADE SYSTEM ===
+ * Description: A console-based application to manage student records, 
+ * search by ID, and calculate mark averages.
+ * Author: Adheesha
+ * Version: 1.0
+ * Date: June 8 2026
+ */
 import java.util.Scanner;
 
 class Student {
